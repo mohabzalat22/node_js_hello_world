@@ -10,5 +10,8 @@
     "test": "echo \"No tests specified\" && exit 0",
     "dev": "node index.js",
     "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
   }
 }
